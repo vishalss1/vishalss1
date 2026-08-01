@@ -1,5 +1,6 @@
 #  About Me:
-CS undergrad at Manipal Institute of Technology, Bengaluru, who enjoys backend development, debugging production-style issues, and understanding system internals. Learning system design and distributed systems through hands-on projects and open-source contributions.
+CS Undergrad at Manipal Institute of Technology, Bengaluru, interested in cloud-native systems and network security. I enjoy understanding system internals, building reliable infrastructure, and learning system design and distributed systems through hands-on projects and open-source contributions.
+
 
 
 ##  Socials:

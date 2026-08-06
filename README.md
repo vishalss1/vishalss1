@@ -18,3 +18,8 @@ CS Undergrad at Manipal Institute of Technology, Bengaluru, interested in cloud-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalss1\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 </div>
+
+## ☕ Support
+<a href="https://buymeacoffee.com/vishalshetagar">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
+</a>
